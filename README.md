@@ -1,1 +1,1 @@
-# Stock-Prediction-price-on-the-Netflix
+# Stock-Prediction-price-of-the-Netflix
